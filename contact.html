@@ -57,7 +57,7 @@
         <div class="col-lg-8 col-md-10 mx-auto">
           <div class="page-heading">
             <h1>Kontakt</h1>
-            <p> <span class="subheading">Skriv venligst til mig via nedstående formular</span></p>
+            <p> <span class="subheading">Skriv venligst til mig via denne formular. Så vender jeg tilbage så hurtigt som muligt!</span></p>
             <p><span class="subheading">l</span> </p>
           </div>
         </div>
@@ -67,49 +67,23 @@
 
   <!-- Main Content -->
   <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
-        <p>Har du et spørgsmål, så udfyld og send venligst nedstående. Så vender jeg tilbage til dig hurtigst muligt!</p>
-        <!-- Contact Form - Enter your email address on line 19 of the mail/contact_me.php file to make this form work. -->
-        <!-- WARNING: Some web hosts do not allow emails to be sent through forms to common mail hosts like Gmail or Yahoo. It's recommended that you use a private domain email address! -->
-        <!-- To use the contact form, your site must be on a live web host with PHP! The form will not work locally! -->
-        <form name="sentMessage" id="contactForm" novalidate>
-          <div class="control-group">
-            <div class="form-group floating-label-form-group controls">
-              <label>Name</label>
-              <input type="text" class="form-control" placeholder="Navn" id="name" required data-validation-required-message="Indtast venligst dit navn">
-              <p class="help-block text-danger"></p>
-            </div>
-          </div>
-          <div class="control-group">
-            <div class="form-group floating-label-form-group controls">
-              <label>Email Address</label>
-              <input type="email" class="form-control" placeholder="E-mailadresse" id="email" required data-validation-required-message="Indtast venligst e-mailadresse">
-              <p class="help-block text-danger"></p>
-            </div>
-          </div>
-          <div class="control-group">
-            <div class="form-group col-xs-12 floating-label-form-group controls">
-              <label>Phone Number</label>
-              <input type="tel" class="form-control" placeholder="Telefon" id="phone" required data-validation-required-message="Indtast venligst telefonnummer">
-              <p class="help-block text-danger"></p>
-            </div>
-          </div>
-          <div class="control-group">
-            <div class="form-group floating-label-form-group controls">
-              <label>Message</label>
-              <textarea rows="5" class="form-control" placeholder="Besked" id="message" required data-validation-required-message="Skriv venligst en besked her"></textarea>
-              <p class="help-block text-danger"></p>
-            </div>
-          </div>
-          <br>
-          <div id="success"></div>
-          <div class="form-group">
-            <button type="submit" class="btn btn-primary" id="sendMessageButton">Send</button>
-          </div>
-        </form>
+  <div class="mt-5 container-fluid">
+    <form action="https://formspree.io/cbsvitzer@outlook.dk" method="POST">
+      <div class="form-group">
+        <label for="exampleInputEmail1">Navn&nbsp;</label>
+        <input required name="name" type="text" class="form-control" id="exampleTextInput" aria-describedby="emailHelp" placeholder="Skriv navn her">      
       </div>
-    </div>
+      <div class="form-group">
+        <label for="exampleInputEmail1">E-mailadresse</label>
+        <input required name="email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Skriv e-mail her">
+      </div>
+      <div class="form-group">
+        <label for="exampleTextarea">Din besked</label>
+        <textarea required name="message" class="form-control" id="exampleTextarea" rows="3"></textarea>
+      </div>
+      <button type="submit" class="btn btn-primary" style="cursor:pointer">SEND</button>
+    </form>
+  </div>
   </div>
 
   <hr>
