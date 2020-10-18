@@ -4,7 +4,6 @@ Trafik
 Dokumentar\Dirch Passer - En dokumentar
 Dokumentar\Gasolin
 Dokumentar\Hele_Danmarks_Dirch
-Dokumentar\Secret Plot To Kill Hitler
 Dokumentar\Romerriget\01_Nero
 Dokumentar\Romerriget\02_Casar
 Dokumentar\Romerriget\03_Tiberius_Gracchus
@@ -154,66 +153,6 @@ Danske Film\To_Verdener
 Danske Film\Tre Piger Fra Jylland
 Danske Film\Ved Kongelunden
 Danske Film\Zappa
-Danske Film\Klovn\Klovn_01_5_Aars_Dagen
-Danske Film\Klovn\Klovn_02_De_Nye_Danskere
-Danske Film\Klovn\Klovn_03_Hushovmesteren
-Danske Film\Klovn\Klovn_04_Dalai_Lama
-Danske Film\Klovn\Klovn_05_Godfather_Of_Drugs
-Danske Film\Klovn\Klovn_06_Loft_Ikke_Hunden
-Danske Film\Klovn\Klovn_07_Fars_Sidste_Onske
-Danske Film\Klovn\Klovn_08_Str_44
-Danske Film\Klovn\Klovn_09_Aarstiderne
-Danske Film\Klovn\Klovn_10_Farvel_Igen_Mor
-Danske Film\Klovn\Klovn_11_Casa_Tua
-Danske Film\Klovn\Klovn_12_Bye_Bye_Bodil
-Danske Film\Klovn\Klovn_13_Don_O_Affaren
-Danske Film\Klovn\Klovn_14_Thors_Ojne
-Danske Film\Klovn\Klovn_15_Kongelig_Hofnar
-Danske Film\Klovn\Klovn_16_Its_A_Jungle_Down_There
-Danske Film\Klovn\Klovn_17_Ambassadoren
-Danske Film\Klovn\Klovn_18_Caros_Barnedaab
-Danske Film\Klovn\Klovn_19_Irmapigen
-Danske Film\Klovn\Klovn_20_Franks_Fede_Ferie
-Danske Film\Klovn\Klovn_21_Rose_Forbandelsen
-Danske Film\Klovn\Klovn_22_London_Kashmir
-Danske Film\Klovn\Klovn_23_Pepino_Og_Pepito
-Danske Film\Klovn\Klovn_24_Nina_Kare_Nina
-Danske Film\Klovn\Klovn_25_100_Dage_I_Forum
-Danske Film\Klovn\Klovn_26_Biggie_Blackie
-Danske Film\Klovn\Klovn_27_Lange_Leve_Demokratiet
-Danske Film\Klovn\Klovn_28_Bossernes_Kennedy
-Danske Film\Klovn\Klovn_29_En_Revisor_Smolfe_CD
-Danske Film\Klovn\Klovn_30_God_Jul_Frank
-Danske Film\Klovn\Klovn_31_Unge_Hjerter
-Danske Film\Klovn\Klovn_32_Hjem_Til_Far
-Danske Film\Klovn\Klovn_33_Sankt_Hans
-Danske Film\Klovn\Klovn_34_Bornholm
-Danske Film\Klovn\Klovn_35_Aben_Ditmark
-Danske Film\Klovn\Klovn_36_Jarlens_Dod
-Danske Film\Klovn\Klovn_37_Piverts_Polterabend
-Danske Film\Klovn\Klovn_38_Hejsan_Sverige
-Danske Film\Klovn\Klovn_39_Tango_For_Tre
-Danske Film\Klovn\Klovn_40_UPS
-Danske Film\Klovn\Klovn_41_Mamma_Mia
-Danske Film\Klovn\Klovn_42_Mere_Ost_Christian_Braad_Thomsen
-Danske Film\Klovn\Klovn_43_White_House_Potential
-Danske Film\Klovn\Klovn_44_Tak_For_Svane‘g
-Danske Film\Klovn\Klovn_45_Den_Japanske_Have
-Danske Film\Klovn\Klovn_46_Troldmanden_Fra_Frederiksberg
-Danske Film\Klovn\Klovn_47_Hor_Nu_Efter_Frank
-Danske Film\Klovn\Klovn_48_Tillykke_Frank
-Danske Film\Klovn\Klovn_49_Drys_Fra_Muffedissen
-Danske Film\Klovn\Klovn_50_Surprise_Mia
-Danske Film\Klovn\Klovn_51_Guffeliguf
-Danske Film\Klovn\Klovn_52_Shut_Up
-Danske Film\Klovn\Klovn_53_Sivsko_Og_Agget
-Danske Film\Klovn\Klovn_54_Fru_Af_Og_Til
-Danske Film\Klovn\Klovn_55_Monsieur_Le_Boss
-Danske Film\Klovn\Klovn_56_Bedragsholmslot
-Danske Film\Klovn\Klovn_57_Bispebjerg_Tricket
-Danske Film\Klovn\Klovn_58_Et_Knus_For_Et_Krus
-Danske Film\Klovn\Klovn_59_Dillitanterne
-Danske Film\Klovn\Klovn_60_Falsk_Lorte_Alarm
 Danske Film\Olsen-Banden\Olsen-Banden 01-1968
 Danske Film\Olsen-Banden\Olsen-Banden 02-Paa Spanden-1969
 Danske Film\Olsen-Banden\Olsen-Banden 03-I Jylland-1971
