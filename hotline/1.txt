@@ -2,4 +2,4 @@ Indstillinger->
 Generalt->
 Tilgængelighed->
 VoiceOver->
-Læs meddelelser op
+Læs altid notifikationer op->
