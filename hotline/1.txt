@@ -1,5 +1,0 @@
-Indstillinger->
-Generalt->
-Tilgængelighed->
-VoiceOver->
-Læs altid notifikationer op->
