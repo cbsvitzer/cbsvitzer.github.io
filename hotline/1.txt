@@ -1,6 +1,0 @@
-Indstillinger->
-Generalt->
-Tilgængelighed->
-VoiceOver->
-Ordstrøm->
-Emoji Suffix->Slå fra
