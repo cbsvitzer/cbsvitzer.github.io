@@ -1,4 +1,3 @@
-√¶√∏√•√Ü√ò√Ö
 0ABCD\0-9\5000 Volts - I'm On Fire.flac
 0ABCD\0-9\49'ers - Got To Be Free.flac
 0ABCD\0-9\4 Non Blondes - What's Up.flac
@@ -41,7 +40,7 @@
 0ABCD\A\AB\ABBA\ABBA - I Do, I Do, I Do, I Do, I Do.flac
 0ABCD\A\AB\ABBA\ABBA - Honey Honey.flac
 0ABCD\A\AB\ABBA\ABBA - Head Over Heels.flac
-0ABCD\A\AB\ABBA\ABBA - Hasta Ma¬§ana.flac
+0ABCD\A\AB\ABBA\ABBA - Hasta Ma§ana.flac
 0ABCD\A\AB\ABBA\ABBA - Happy New Year.flac
 0ABCD\A\AB\ABBA\ABBA - Gimme Gimme Gimme.flac
 0ABCD\A\AB\ABBA\ABBA - Eagle.flac
@@ -71,16 +70,16 @@
 0ABCD\A\Aerosmith\Aerosmith - Cryin'.flac
 0ABCD\A\Aerosmith\Aerosmith - Crazy.flac
 0ABCD\A\Aerosmith\Aerosmith - Amazing.flac
-0ABCD\A\AG\Agnetha F‚Äûltskog - Wrap Your Arms Around Me.flac
+0ABCD\A\AG\Agnetha FÑltskog - Wrap Your Arms Around Me.flac
 0ABCD\A\AG\Agnes - Release Me.flac
 0ABCD\A\Air Supply\Air Supply - Making Love Out Of Nothing At All.flac
 0ABCD\A\Air Supply\Air Supply - All Out Of Love.flac
-0ABCD\A\Aksel Schi‚Ä∫tz\Aksel Schi‚Ä∫tz & Edith Oldrup - H‚Ä∫r Ungersvend, Sig Ikke Nej.flac
-0ABCD\A\Aksel Schi‚Ä∫tz\Aksel Schi‚Ä∫tz - Prinsesse Tove.flac
-0ABCD\A\Aksel Schi‚Ä∫tz\Aksel Schi‚Ä∫tz - I Danmark Er Jeg F‚Ä∫dt.flac
-0ABCD\A\Aksel Schi‚Ä∫tz\Aksel Schi‚Ä∫tz - Den Milde Dag Er Lys Og Lang.flac
+0ABCD\A\Aksel Schi¯tz\Aksel Schi¯tz & Edith Oldrup - H¯r Ungersvend, Sig Ikke Nej.flac
+0ABCD\A\Aksel Schi¯tz\Aksel Schi¯tz - Prinsesse Tove.flac
+0ABCD\A\Aksel Schi¯tz\Aksel Schi¯tz - I Danmark Er Jeg F¯dt.flac
+0ABCD\A\Aksel Schi¯tz\Aksel Schi¯tz - Den Milde Dag Er Lys Og Lang.flac
 0ABCD\A\AL\Alvin Stardust - You You You.flac
-0ABCD\A\AL\Aliz‚Äöe - Moi... Lolita.flac
+0ABCD\A\AL\AlizÇe - Moi... Lolita.flac
 0ABCD\A\AL\Alison Limerick - Where Love Lives.flac
 0ABCD\A\AL\Alicia Bridges - I Love The Nightlife.flac
 0ABCD\A\AL\Alias - More Than Words Can Say.flac
@@ -128,11 +127,11 @@
 0ABCD\A\AM\Amy Macdonald\Amy Macdonald - Run.flac
 0ABCD\A\AM\Amy Winehouse\Amy Winehouse - You Know I'm No Good.flac
 0ABCD\A\AM\Amy Winehouse\Amy Winehouse - Back To Black.flac
-0ABCD\A\AN\Antonio Vivaldi - De 4 ¬èrstider.flac
+0ABCD\A\AN\Antonio Vivaldi - De 4 èrstider.flac
 0ABCD\A\AN\Anne Murray - You Needed Me.flac
-0ABCD\A\AN\Anne Murillo - Hvis Du T‚Äònker Lidt P‚Ä† Mig.flac
-0ABCD\A\AN\Anne Karin - N‚Ä†r Man Kun Er 18 ¬èr.flac
-0ABCD\A\AN\Anne Dorte Michelsen - Lagt Mine V‚Ä†ben.flac
+0ABCD\A\AN\Anne Murillo - Hvis Du Tënker Lidt PÜ Mig.flac
+0ABCD\A\AN\Anne Karin - NÜr Man Kun Er 18 èr.flac
+0ABCD\A\AN\Anne Dorte Michelsen - Lagt Mine VÜben.flac
 0ABCD\A\AN\Anna David - Fuck Dig.flac
 0ABCD\A\AN\Ann Sexton - You're Losing Me.flac
 0ABCD\A\AN\Ann Lee - 2 Times.flac
@@ -141,7 +140,7 @@
 0ABCD\A\AN\Andy Gibb - Shadow Dancing.flac
 0ABCD\A\AN\Andrew Gold - Lonely Boy.flac
 0ABCD\A\AN\Andreas Johnson - Glorious.flac
-0ABCD\A\AN\Anders Frandsen - Lige Der Hvor Hjertet Sl‚Ä†r.flac
+0ABCD\A\AN\Anders Frandsen - Lige Der Hvor Hjertet SlÜr.flac
 0ABCD\A\AN\Anastacia - I'm Outta Love.flac
 0ABCD\A\AN\Ana Johnsson\Ana Johnsson - We Are.flac
 0ABCD\A\AN\Ana Johnsson\Ana Johnsson - Don't Cry For Pain.flac
@@ -152,7 +151,7 @@
 0ABCD\A\AN\Ann-Louise\Ann-Louise - Remember Me.flac
 0ABCD\A\AN\Anne Linnet\Anne Linnet - Venus.flac
 0ABCD\A\AN\Anne Linnet\Anne Linnet - Smuk Og Dejlig.flac
-0ABCD\A\AN\Anne Linnet\Anne Linnet - Glor P‚Ä† Vinduer.flac
+0ABCD\A\AN\Anne Linnet\Anne Linnet - Glor PÜ Vinduer.flac
 0ABCD\A\AN\Anne Linnet\Anne Linnet - Barndommens Gade.flac
 0ABCD\A\AN\Anouk\Anouk - Nobody's Wife.flac
 0ABCD\A\AN\Anouk\Anouk - It's So Hard.flac
@@ -277,10 +276,10 @@
 0ABCD\B\BE\Bellamy Brothers\Bellamy Brothers - If I Said You Had A Beautiful Body.flac
 0ABCD\B\BE\Bette Midler\Bette Midler - Wind Beneath My Wings.flac
 0ABCD\B\BE\Bette Midler\Bette Midler - From A Distance.flac
-0ABCD\B\BE\Beyonc‚Äö\Beyonc‚Äö & Jay-Z - Crazy In Love.flac
-0ABCD\B\BE\Beyonc‚Äö\Beyonc‚Äö - Listen.flac
-0ABCD\B\BE\Beyonc‚Äö\Beyonc‚Äö - Irreplaceable.flac
-0ABCD\B\BI\Birthe Kj‚Äòr - Vi Maler Byen R‚Ä∫d.flac
+0ABCD\B\BE\BeyoncÇ\BeyoncÇ & Jay-Z - Crazy In Love.flac
+0ABCD\B\BE\BeyoncÇ\BeyoncÇ - Listen.flac
+0ABCD\B\BE\BeyoncÇ\BeyoncÇ - Irreplaceable.flac
+0ABCD\B\BI\Birthe Kjër - Vi Maler Byen R¯d.flac
 0ABCD\B\BI\Bimbo Jet - El Bimbo.flac
 0ABCD\B\BI\Billy Ray Cyrus - Achy Breaky Heart.flac
 0ABCD\B\BI\Billie Myers - Kiss The Rain.flac
@@ -308,9 +307,9 @@
 0ABCD\B\BI\Billy Ocean\Billy Ocean - Caribbean Queen.flac
 0ABCD\B\BJ\BJ Thomas\BJ Thomas - Rythm Of The Rain.flac
 0ABCD\B\BJ\BJ Thomas\BJ Thomas - Raindrops Keep Falling On My Head.flac
-0ABCD\B\BJ\Bj‚Äùrn Afzelius\Bj‚Äùrn Afzelius - Tusen Bitar.flac
-0ABCD\B\BJ\Bj‚Äùrn Afzelius\Bj‚Äùrn Afzelius - Juanita.flac
-0ABCD\B\BJ\Bj‚Äùrn Afzelius\Bj‚Äùrn Afzelius - Ikaros.flac
+0ABCD\B\BJ\Bjîrn Afzelius\Bjîrn Afzelius - Tusen Bitar.flac
+0ABCD\B\BJ\Bjîrn Afzelius\Bjîrn Afzelius - Juanita.flac
+0ABCD\B\BJ\Bjîrn Afzelius\Bjîrn Afzelius - Ikaros.flac
 0ABCD\B\BL\Blues Traveler - Run Around.flac
 0ABCD\B\BL\Bluebeat - Rio.flac
 0ABCD\B\BL\Blue Suede - Hooked On A Feeling.flac
@@ -340,11 +339,11 @@
 0ABCD\B\BL\Blur\Blur - Song 2.flac
 0ABCD\B\BL\Blur\Blur - Country House.flac
 0ABCD\B\BL\Blur\Blur - Charmless Man.flac
-0ABCD\B\BL\Bl‚Ä† ¬ùjne\Bl‚Ä† ¬ùjne - Romeo.flac
-0ABCD\B\BL\Bl‚Ä† ¬ùjne\Bl‚Ä† ¬ùjne - Hvis Du G‚Ä†r.flac
-0ABCD\B\BL\Bl‚Ä† ¬ùjne\Bl‚Ä† ¬ùjne - Hos Dig.flac
-0ABCD\B\BL\Bl‚Ä† ¬ùjne\Bl‚Ä† ¬ùjne - Forelsket.flac
-0ABCD\B\BL\Bl‚Ä† ¬ùjne\Bl‚Ä† ¬ùjne - Fiskene I Havet.flac
+0ABCD\B\BL\BlÜ ùjne\BlÜ ùjne - Romeo.flac
+0ABCD\B\BL\BlÜ ùjne\BlÜ ùjne - Hvis Du GÜr.flac
+0ABCD\B\BL\BlÜ ùjne\BlÜ ùjne - Hos Dig.flac
+0ABCD\B\BL\BlÜ ùjne\BlÜ ùjne - Forelsket.flac
+0ABCD\B\BL\BlÜ ùjne\BlÜ ùjne - Fiskene I Havet.flac
 0ABCD\B\BO\Boyzone - Picture Of You.flac
 0ABCD\B\BO\Boys Town Gang - Can't Take My Eyes Off Of You.flac
 0ABCD\B\BO\Boy Meets Girl - Waiting For A Star To Fall.flac
@@ -558,7 +557,7 @@
 0ABCD\C\CH\Chris Rea\Chris Rea - Fool.flac
 0ABCD\C\CH\Chris Rea\Chris Rea - Driving Home For Christmas.flac
 0ABCD\C\CH\Christian\Christian - Tilbage Hvor Vi Var.flac
-0ABCD\C\CH\Christian\Christian - M‚Ä∫d Dig Selv.flac
+0ABCD\C\CH\Christian\Christian - M¯d Dig Selv.flac
 0ABCD\C\CH\Christian\Christian - Min Fremtid.flac
 0ABCD\C\CH\Christina Aguilera\Christina Aguilera - Oh Mother.flac
 0ABCD\C\CH\Christina Aguilera\Christina Aguilera - Hurt.flac
@@ -587,7 +586,7 @@
 0ABCD\C\CO\Cotton, Lloyd & Christian - I Go To Pieces.flac
 0ABCD\C\CO\Cornershop - Brimful Of Asha.flac
 0ABCD\C\CO\Corinne Bailey Rae - Put Your Records On.flac
-0ABCD\C\CO\Coolsville - Det G‚Äòlder.flac
+0ABCD\C\CO\Coolsville - Det Gëlder.flac
 0ABCD\C\CO\Coolio - Gangsta's Paradise.flac
 0ABCD\C\CO\Connells - '74 - '75.flac
 0ABCD\C\CO\Concrete Blonde - Joey.flac
@@ -646,10 +645,10 @@
 0ABCD\C\CU\Culture Club\Culture Club - Do You Really Want To Hurt Me.flac
 0ABCD\C\CU\Cure\Cure - Just Like Heaven.flac
 0ABCD\C\CU\Cure\Cure - Friday I'm In Love.flac
-0ABCD\C\CV J‚Ä∫rgensen\CV J‚Ä∫rgensen - Senior & S‚Ä∫n.flac
-0ABCD\C\CV J‚Ä∫rgensen\CV J‚Ä∫rgensen - Lidt Til & Meget Mer'.flac
-0ABCD\C\CV J‚Ä∫rgensen\CV J‚Ä∫rgensen - Costa Del Sol.flac
-0ABCD\C\CV J‚Ä∫rgensen\CV J‚Ä∫rgensen - Bellevue.flac
+0ABCD\C\CV J¯rgensen\CV J¯rgensen - Senior & S¯n.flac
+0ABCD\C\CV J¯rgensen\CV J¯rgensen - Lidt Til & Meget Mer'.flac
+0ABCD\C\CV J¯rgensen\CV J¯rgensen - Costa Del Sol.flac
+0ABCD\C\CV J¯rgensen\CV J¯rgensen - Bellevue.flac
 0ABCD\C\Cyndi Lauper\Cyndi Lauper - Time After Time.flac
 0ABCD\C\Cyndi Lauper\Cyndi Lauper - Girls Just Want To Have Fun.flac
 0ABCD\D\Dschinghis Khan - Dschinghis Khan.flac
@@ -672,7 +671,7 @@
 0ABCD\D\DA\DAD\DAD - Everything Glows.flac
 0ABCD\D\DA\DAD\DAD - Between You & Me.flac
 0ABCD\D\DA\DAN\Dante Thomas - Miss California.flac
-0ABCD\D\DA\DAN\Danser Med Drenge - Hvor L‚Äònge Vil Du Ydmyge Dig.flac
+0ABCD\D\DA\DAN\Danser Med Drenge - Hvor Lënge Vil Du Ydmyge Dig.flac
 0ABCD\D\DA\DAN\Danseorkestret - Kom Tilbage Nu.flac
 0ABCD\D\DA\DAN\Danny Wilson - Mary's Prayer.flac
 0ABCD\D\DA\DAN\Dannii - This Is The Way.flac
@@ -699,11 +698,11 @@
 0ABCD\D\DA\David Cassidy\David Cassidy - I Think I Love You.flac
 0ABCD\D\DA\David Cassidy\David Cassidy - Could It Be Forever.flac
 0ABCD\D\DE\Dexy's Midnight Runners - Come On Eileen.flac
-0ABCD\D\DE\Det Internationale Sig‚Ä∫jnerkor - I Kan Ikke Sl‚Ä† Os Ihjel.flac
+0ABCD\D\DE\Det Internationale Sig¯jnerkor - I Kan Ikke SlÜ Os Ihjel.flac
 0ABCD\D\DE\Desireless - Voyage Voyage.flac
 0ABCD\D\DE\Derek & The Dominos - Layla.flac
 0ABCD\D\DE\Dennis Edwards - Don't Look Any Further.flac
-0ABCD\D\DE\Deniece Williams - Let√Øs Hear It For The Boy.flac
+0ABCD\D\DE\Deniece Williams - LetÔs Hear It For The Boy.flac
 0ABCD\D\DE\Del Shannon - Runaway.flac
 0ABCD\D\DE\Deep Blue Something - Breakfast At Tiffany's.flac
 0ABCD\D\DE\Deee-Lite - Groove Is In The Heart.flac
@@ -738,7 +737,7 @@
 0ABCD\D\DI\Divinyls - I Touch Myself.flac
 0ABCD\D\DI\Div. Danske Kunstnere - Afrika.flac
 0ABCD\D\DI\Dishwalla - Counting Blue Cars.flac
-0ABCD\D\DI\Dirch Passer & Ove Sprog‚Ä∫e - Der Kommer Altid En Sporvogn Og En Pige Til.flac
+0ABCD\D\DI\Dirch Passer & Ove Sprog¯e - Der Kommer Altid En Sporvogn Og En Pige Til.flac
 0ABCD\D\DI\Dion & The Belmonts - A Teenager In Love.flac
 0ABCD\D\DI\Dina Carroll - Don't Be A Stranger.flac
 0ABCD\D\DI\Dido - Here With Me.flac
@@ -772,7 +771,7 @@
 0ABCD\D\DI\Dizzy Mizz Lizzy\Dizzy Mizz Lizzy - Silverflame.flac
 0ABCD\D\DI\Dizzy Mizz Lizzy\Dizzy Mizz Lizzy - Love Is A Looser's Game.flac
 0ABCD\D\DI\Dizzy Mizz Lizzy\Dizzy Mizz Lizzy - 11.07 PM.flac
-0ABCD\D\DJ\Djurslandsspillem‚Äòndene - Christianitter, Jydske Knejte.flac
+0ABCD\D\DJ\Djurslandsspillemëndene - Christianitter, Jydske Knejte.flac
 0ABCD\D\DJ\DJ Encore - I See Right Through To You.flac
 0ABCD\D\DJ\DJ Dado - X-Files.flac
 0ABCD\D\DJ\DJ Bobo\DJ Bobo - There's A Party.flac
@@ -783,8 +782,8 @@
 0ABCD\D\DO\Don Henley - The Boys of Summer.flac
 0ABCD\D\DO\Dolores O'Riordan - Ordinary Day.flac
 0ABCD\D\DO\Dodgy - Good Enough.flac
-0ABCD\D\DO\Dodo And The Dodos\Dodo And The Dodos - V‚Ä†gner I Natten.flac
-0ABCD\D\DO\Dodo And The Dodos\Dodo And The Dodos - S‚Ä∫mand Af Verden.flac
+0ABCD\D\DO\Dodo And The Dodos\Dodo And The Dodos - VÜgner I Natten.flac
+0ABCD\D\DO\Dodo And The Dodos\Dodo And The Dodos - S¯mand Af Verden.flac
 0ABCD\D\DO\Dodo And The Dodos\Dodo And The Dodos - Hvis Det Bli'r.flac
 0ABCD\D\DO\Dodo And The Dodos\Dodo And The Dodos - Giv Mig Hvad Du Har.flac
 0ABCD\D\DO\Dolly Parton\Dolly Parton - Think About Love.flac
@@ -800,7 +799,7 @@
 0ABCD\D\DO\Donna Summer\Donna Summer - Bad Girls.flac
 0ABCD\D\DO\Doobie Brothers\Doobie Brothers - Long Train Runnin'.flac
 0ABCD\D\DO\Doobie Brothers\Doobie Brothers - Listen To The Music.flac
-0ABCD\D\DR\Dr‚Äùmhus - Vill Ha Dig.flac
+0ABCD\D\DR\Drîmhus - Vill Ha Dig.flac
 0ABCD\D\DR\Dreams - Ingen Kan Erstatte Dig.flac
 0ABCD\D\DR\Dream - Things Can Only Get Better.flac
 0ABCD\D\DR\Dr. Alban - Sing Hallelujah.flac
@@ -843,8 +842,8 @@ EFGHI\E\ED\Eddie Howell - Man From Manhattan.flac
 EFGHI\E\ED\Edith Piaf\Edith Piaf - Non, Je Ne Regrette Rien.flac
 EFGHI\E\ED\Edith Piaf\Edith Piaf - La Vie En Rose.flac
 EFGHI\E\EL\Elle - Wishing You Were Mine.flac
-EFGHI\E\EL\Elisabeth Edberg - Eviva Espa¬§a.flac
-EFGHI\E\EL\Elisabeth - En S‚Ä∫mand Som Dig.flac
+EFGHI\E\EL\Elisabeth Edberg - Eviva Espa§a.flac
+EFGHI\E\EL\Elisabeth - En S¯mand Som Dig.flac
 EFGHI\E\EL\Electrasy - Morning Afterglow.flac
 EFGHI\E\EL\Elaine Paige & Barbara Dickson - I Know Him So Well.flac
 EFGHI\E\EL\ELO\ELO - Yours Truly, 2095.flac
@@ -938,7 +937,7 @@ EFGHI\E\ER\Eric Clapton\Eric Clapton - Bad Love.flac
 EFGHI\E\ER\Eros Ramazzotti\Eros Ramazzotti - Un' Emozione Per Sempre.flac
 EFGHI\E\ER\Eros Ramazzotti\Eros Ramazzotti - Se Bastasse Una Canzone.flac
 EFGHI\E\ER\Eros Ramazzotti\Eros Ramazzotti - Quanto Amore Sei.flac
-EFGHI\E\ER\Eros Ramazzotti\Eros Ramazzotti - Pi‚Äî Bella Cosa.flac
+EFGHI\E\ER\Eros Ramazzotti\Eros Ramazzotti - Pió Bella Cosa.flac
 EFGHI\E\ER\Eros Ramazzotti\Eros Ramazzotti - Il Buio Ha I Tuoi Occhi.flac
 EFGHI\E\ER\Eros Ramazzotti\Eros Ramazzotti - Cosa Della Vita.flac
 EFGHI\E\Eternal\Eternal - Stay.flac
@@ -1022,7 +1021,7 @@ EFGHI\F\FR\Frankie Avalon - Venus.flac
 EFGHI\F\FR\Frank Zappa - Bobby Brown Goes Down.flac
 EFGHI\F\FR\Frank Sinatra - My Way.flac
 EFGHI\F\FR\FR David - Words.flac
-EFGHI\F\FR\France Gall\France Gall - Poup‚Äöe De Cire Poup‚Äöe De Son.flac
+EFGHI\F\FR\France Gall\France Gall - PoupÇe De Cire PoupÇe De Son.flac
 EFGHI\F\FR\France Gall\France Gall - Ella, Elle L'a.flac
 EFGHI\F\FR\Frankie Goes To Hollywood\Frankie Goes To Hollywood - The Power Of Love.flac
 EFGHI\F\FR\Frankie Goes To Hollywood\Frankie Goes To Hollywood - Relax.flac
@@ -1057,22 +1056,22 @@ EFGHI\G\GA\Gasolin\Gasolin - Strengelegen.flac
 EFGHI\G\GA\Gasolin\Gasolin - Stakkels Jim.flac
 EFGHI\G\GA\Gasolin\Gasolin - Snehvide.flac
 EFGHI\G\GA\Gasolin\Gasolin - Sirenesangen.flac
-EFGHI\G\GA\Gasolin\Gasolin - Se Din By Fra T‚Ä†rnets Top.flac
+EFGHI\G\GA\Gasolin\Gasolin - Se Din By Fra TÜrnets Top.flac
 EFGHI\G\GA\Gasolin\Gasolin - Sct. Emetri.flac
 EFGHI\G\GA\Gasolin\Gasolin - Refrainet Er Frit.flac
-EFGHI\G\GA\Gasolin\Gasolin - Rabalderstr‚Äòde.flac
-EFGHI\G\GA\Gasolin\Gasolin - P‚Ä† En Sommerdag.flac
-EFGHI\G\GA\Gasolin\Gasolin - P‚Ä† Banen.flac
+EFGHI\G\GA\Gasolin\Gasolin - Rabalderstrëde.flac
+EFGHI\G\GA\Gasolin\Gasolin - PÜ En Sommerdag.flac
+EFGHI\G\GA\Gasolin\Gasolin - PÜ Banen.flac
 EFGHI\G\GA\Gasolin\Gasolin - Masser Af Succes.flac
-EFGHI\G\GA\Gasolin\Gasolin - L‚Äònges Hjem.flac
+EFGHI\G\GA\Gasolin\Gasolin - Lënges Hjem.flac
 EFGHI\G\GA\Gasolin\Gasolin - Langebro.flac
 EFGHI\G\GA\Gasolin\Gasolin - Kvinde Min.flac
 EFGHI\G\GA\Gasolin\Gasolin - Kloden Drejer Stille Rundt.flac
-EFGHI\G\GA\Gasolin\Gasolin - Hvad G‚Ä∫r Vi Nu, Lille Du.flac
-EFGHI\G\GA\Gasolin\Gasolin - Det Var Inga, Katinka Og Smukke Charley P‚Ä† Sin Harley.flac
+EFGHI\G\GA\Gasolin\Gasolin - Hvad G¯r Vi Nu, Lille Du.flac
+EFGHI\G\GA\Gasolin\Gasolin - Det Var Inga, Katinka Og Smukke Charley PÜ Sin Harley.flac
 EFGHI\G\GA\Gasolin\Gasolin - Det Bedste Til Mig Og Mine Venner.flac
 EFGHI\G\GA\Gasolin\Gasolin - December I New York.flac
-EFGHI\G\GA\Gasolin\Gasolin - De Fem ¬èrstider.flac
+EFGHI\G\GA\Gasolin\Gasolin - De Fem èrstider.flac
 EFGHI\G\GA\Gasolin\Gasolin - Balladen Om Provoknud.flac
 EFGHI\G\GA\Gavin Degraw\Gavin DeGraw - I Don't Want To Be.flac
 EFGHI\G\GA\Gavin Degraw\Gavin Degraw - Follow Through.flac
@@ -1115,7 +1114,7 @@ EFGHI\G\GI\Gipsy Kings\Gipsy Kings - Bamboleo.flac
 EFGHI\G\GI\Giuseppe Verdi\Giuseppe Verdi - Rigoletto.flac
 EFGHI\G\GI\Giuseppe Verdi\Giuseppe Verdi - Libiamo Ne' Lieti Calici.flac
 EFGHI\G\GL\Glenn Frey - Part Of Me, Part Of You.flac
-EFGHI\G\GL\Glenmark Eriksson Str‚Äùmstedt - N‚Äûr Vi Gr‚Äûver Guld I USA.flac
+EFGHI\G\GL\Glenmark Eriksson Strîmstedt - NÑr Vi GrÑver Guld I USA.flac
 EFGHI\G\GL\Glen Campbell - Rhinestone Cowboy.flac
 EFGHI\G\GL\Gladys Knight\Gladys Knight & The Pips - Try To Remember.flac
 EFGHI\G\GL\Gladys Knight\Gladys Knight & The Pips - Midnight Train To Georgia.flac
@@ -1130,11 +1129,11 @@ EFGHI\G\GL\Gloria Gaynor\Gloria Gaynor - Reach Out I'll Be There.flac
 EFGHI\G\GL\Gloria Gaynor\Gloria Gaynor - Never Can Say Goodbye.flac
 EFGHI\G\GL\Gloria Gaynor\Gloria Gaynor - I Will Survive.flac
 EFGHI\G\Gnags\Gnags - Vilde Kaniner.flac
-EFGHI\G\Gnags\Gnags - N‚Ä†r Jeg Bliver Gammel.flac
-EFGHI\G\Gnags\Gnags - Lav Sol Over ¬èrhus.flac
-EFGHI\G\Gnags\Gnags - K‚Äòrester.flac
-EFGHI\G\Gnags\Gnags - Fuldm‚Ä†nen Lyser.flac
-EFGHI\G\Gnags\Gnags - Fodg‚Äònger.flac
+EFGHI\G\Gnags\Gnags - NÜr Jeg Bliver Gammel.flac
+EFGHI\G\Gnags\Gnags - Lav Sol Over èrhus.flac
+EFGHI\G\Gnags\Gnags - Kërester.flac
+EFGHI\G\Gnags\Gnags - FuldmÜnen Lyser.flac
+EFGHI\G\Gnags\Gnags - Fodgënger.flac
 EFGHI\G\Gnags\Gnags - Den Dejligste Morgen.flac
 EFGHI\G\Gnags\Gnags - Danmark.flac
 EFGHI\G\GO\Gordon Lightfoot - If You Could Read My Mind.flac
@@ -1151,7 +1150,7 @@ EFGHI\G\GO\Goo Goo Dolls\Goo Goo Dolls - Black Balloon.flac
 EFGHI\G\GR\Graaf - You Got.flac
 EFGHI\G\GR\Groove Coverage - Poison.flac
 EFGHI\G\GR\Grethe Ingmann - Jeg har fundet melodien.flac
-EFGHI\G\GR\Grethe & J‚Ä∫rgen Ingmann - Dansevise.flac
+EFGHI\G\GR\Grethe & J¯rgen Ingmann - Dansevise.flac
 EFGHI\G\GR\Great White - House Of Broken Love.flac
 EFGHI\G\GR\Green Day\Green Day - Good Riddance.flac
 EFGHI\G\GR\Green Day\Green Day - Boulevard Of Broken Dreams.flac
@@ -1174,7 +1173,7 @@ EFGHI\G\Gwen Stefani\Gwen Stefani & Akon - The Sweet Escape.flac
 EFGHI\G\Gwen Stefani\Gwen Stefani - 4 In The Morning.flac
 EFGHI\H\Hi-Gloss - You'll Never Know.flac
 EFGHI\H\H Faltermeyer - Axel F.flac
-EFGHI\H\H C Lumbye\H C Lumbye - K‚Ä∫benhavns Jernbanedamp Galop.flac
+EFGHI\H\H C Lumbye\H C Lumbye - K¯benhavns Jernbanedamp Galop.flac
 EFGHI\H\H C Lumbye\H C Lumbye - Colombine Polka-Mazurka.flac
 EFGHI\H\H C Lumbye\H C Lumbye - Champagnegalop.flac
 EFGHI\H\HA\Harry Nilsson - Everybody's Talkin'.flac
@@ -1298,7 +1297,7 @@ JKLMN\J\JE\Jessica\Jessica - How Will I Know.flac
 JKLMN\J\JE\Jessica Simpson\Jessica Simpson - Irresistible.flac
 JKLMN\J\JE\Jessica Simpson\Jessica Simpson - I Wanna Love You Forever.flac
 JKLMN\J\JE\Jethro Tull\Jethro Tull - Cup Of Wonder.flac
-JKLMN\J\JE\Jethro Tull\Jethro Tull - Bour‚Äöe.flac
+JKLMN\J\JE\Jethro Tull\Jethro Tull - BourÇe.flac
 JKLMN\J\JE\Jewel\Jewel - Standing Still.flac
 JKLMN\J\JE\Jewel\Jewel - Fragile Heart.flac
 JKLMN\J\JE\Jewel\Jewel - Down So Long.flac
@@ -1316,18 +1315,18 @@ JKLMN\J\JO\Jonz - Sleeping.flac
 JKLMN\J\JO\Jon Secada - Just Another Day.flac
 JKLMN\J\JO\Jomfru Ane Band - Plutonium.flac
 JKLMN\J\JO\Johnny Tillotson - Poetry In Motion.flac
-JKLMN\J\JO\Johnny Madsen - Udenfor S‚Äòsonen.flac
+JKLMN\J\JO\Johnny Madsen - Udenfor Sësonen.flac
 JKLMN\J\JO\Johnny Hates Jazz - Shattered Dreams.flac
-JKLMN\J\JO\Johnny Deluxe & Anna Nordell - Dr‚Ä∫mmer Jeg.flac
+JKLMN\J\JO\Johnny Deluxe & Anna Nordell - Dr¯mmer Jeg.flac
 JKLMN\J\JO\Johnny Bristol - Hang On In There, Baby.flac
 JKLMN\J\JO\John Waite - Missing You.flac
 JKLMN\J\JO\John Travolta & Olivia Newton-John - You're The One That I Want.flac
 JKLMN\J\JO\John The Whistler - I'm In Love.flac
 JKLMN\J\JO\John Paul Young - Love Is In The Air.flac
 JKLMN\J\JO\John Parr - St. Elmo's Fire.flac
-JKLMN\J\JO\John Mogensen - S‚Ä† L‚Äònge Jeg Lever.flac
+JKLMN\J\JO\John Mogensen - SÜ Lënge Jeg Lever.flac
 JKLMN\J\JO\John Lee Hooker - The Healer.flac
-JKLMN\J\JO\Johann Strauss II - An Der Sch‚Äùnen Blauen Donau.flac
+JKLMN\J\JO\Johann Strauss II - An Der Schînen Blauen Donau.flac
 JKLMN\J\JO\Johann Strauss I - Radetzky March.flac
 JKLMN\J\JO\Johann Sebastian Bach - Overture No 3.flac
 JKLMN\J\JO\Joey Moe - My Last Serenade.flac
@@ -1411,15 +1410,15 @@ JKLMN\K\KA\Kanye West\Kanye West - Heartless.flac
 JKLMN\K\KA\Kate Bush\Kate Bush - Wuthering Heights.flac
 JKLMN\K\KA\Kate Bush\Kate Bush - Babooshka.flac
 JKLMN\K\KA\Kate Ryan\Kate Ryan - Libertine.flac
-JKLMN\K\KA\Kate Ryan\Kate Ryan - D‚Äösenchant‚Äöe.flac
+JKLMN\K\KA\Kate Ryan\Kate Ryan - DÇsenchantÇe.flac
 JKLMN\K\KA\Katrina & The Waves\Katrina & The Waves - Walking On Sunshine.flac
 JKLMN\K\KA\Katrina & The Waves\Katrina & The Waves - Love Shine A Light.flac
 JKLMN\K\KA\Katy Perry\Katy Perry - I Kissed A Girl.flac
 JKLMN\K\KA\Katy Perry\Katy Perry - Hot N Cold.flac
-JKLMN\K\KE\Kent - Om Du Var H‚Äûr.flac
+JKLMN\K\KE\Kent - Om Du Var HÑr.flac
 JKLMN\K\KE\Kenny Thomas - Thinking About Your Love.flac
 JKLMN\K\KE\Kelly Marie - Feels Like I'm In Love.flac
-JKLMN\K\KE\Keld & Hilda - Vi Skal G‚Ä† H‚Ä†nd I H‚Ä†nd.flac
+JKLMN\K\KE\Keld & Hilda - Vi Skal GÜ HÜnd I HÜnd.flac
 JKLMN\K\KE\Keane\Keane - This Is The Last Time.flac
 JKLMN\K\KE\Keane\Keane - Somewhere Only We Know.flac
 JKLMN\K\KE\Keane\Keane - Everybody's Changing.flac
@@ -1451,14 +1450,14 @@ JKLMN\K\KI\Killers\Killers - Somebody Told Me.flac
 JKLMN\K\KI\Killers\Killers - Human.flac
 JKLMN\K\KI\Killers\Killers - Bones.flac
 JKLMN\K\KI\Killers\Killers - All These Things That I've Done.flac
-JKLMN\K\KI\Kim Larsen\Kim Larsen - ¬ùsterbro Sv‚Ä∫mmehal.flac
-JKLMN\K\KI\Kim Larsen\Kim Larsen - Ud I Det Bl‚Ä†.flac
+JKLMN\K\KI\Kim Larsen\Kim Larsen - ùsterbro Sv¯mmehal.flac
+JKLMN\K\KI\Kim Larsen\Kim Larsen - Ud I Det BlÜ.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - Tutta.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - Tik Tik.flac
-JKLMN\K\KI\Kim Larsen\Kim Larsen - Susan Himmelbl‚Ä†.flac
+JKLMN\K\KI\Kim Larsen\Kim Larsen - Susan HimmelblÜ.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - Sammen & Hver For Sig.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - Rita.flac
-JKLMN\K\KI\Kim Larsen\Kim Larsen - P‚Ä† En Gren I Vort Kvarter.flac
+JKLMN\K\KI\Kim Larsen\Kim Larsen - PÜ En Gren I Vort Kvarter.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - Papirsklip.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - Om Lidt.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - Midt Om Natten.flac
@@ -1472,10 +1471,10 @@ JKLMN\K\KI\Kim Larsen\Kim Larsen - Det Er I Dag Et Vejr.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - Det Er En Kold Tid.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - Den Allersidste Dans.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - De Smukke Unge Mennesker.flac
-JKLMN\K\KI\Kim Larsen\Kim Larsen - Dagen F‚Ä∫r.flac
+JKLMN\K\KI\Kim Larsen\Kim Larsen - Dagen F¯r.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - Christianshavns Kanal.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - Byens Hotel.flac
-JKLMN\K\KI\Kim Larsen\Kim Larsen - Blip-B‚Ä†t.flac
+JKLMN\K\KI\Kim Larsen\Kim Larsen - Blip-BÜt.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - Blaffersangen.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - Bell'Star.flac
 JKLMN\K\KI\Kim Larsen\Kim Larsen - 1910.flac
@@ -1521,7 +1520,7 @@ JKLMN\L\LA\Last Goodnight - Pictures Of You.flac
 JKLMN\L\LA\Lasgo - Something.flac
 JKLMN\L\LA\Las Ketchup - The Ketchup Song.flac
 JKLMN\L\LA\LA's - There She Goes.flac
-JKLMN\L\LA\Lars Lilholt - Kald Det K‚Äòrlighed.flac
+JKLMN\L\LA\Lars Lilholt - Kald Det Kërlighed.flac
 JKLMN\L\LA\Laid Back - Sunshine Reggae.flac
 JKLMN\L\LA\Lady Antebellum - Need You Now.flac
 JKLMN\L\LA\Labelle - Lady Marmalade.flac
@@ -1532,13 +1531,13 @@ JKLMN\L\LA\Lady Gaga\Lady Gaga - Paparazzi.flac
 JKLMN\L\LA\Lady Gaga\Lady Gaga - Just Dance.flac
 JKLMN\L\LA\Lady Gaga\Lady Gaga - Eh Eh.flac
 JKLMN\L\LA\Lady Gaga\Lady Gaga - Bad Romance.flac
-JKLMN\L\LA\Lars H.U.G\Lars H.U.G. - Natsv‚Äòrmer.flac
-JKLMN\L\LA\Lars H.U.G\Lars H.U.G. - Hvorfor Er Lykken S‚Ä† Lunefuld.flac
+JKLMN\L\LA\Lars H.U.G\Lars H.U.G. - Natsvërmer.flac
+JKLMN\L\LA\Lars H.U.G\Lars H.U.G. - Hvorfor Er Lykken SÜ Lunefuld.flac
 JKLMN\L\LA\Lars H.U.G\Lars H.U.G. - Dansevise.flac
 JKLMN\L\LE\Level 42 - Something About You.flac
 JKLMN\L\LE\Lemar - It's Not That Easy.flac
 JKLMN\L\LE\Led Zeppelin - Stairway To Heaven.flac
-JKLMN\L\LE\Lecia & Lucienne - R‚Ä∫r Ved Mig.flac
+JKLMN\L\LE\Lecia & Lucienne - R¯r Ved Mig.flac
 JKLMN\L\LE\Lecia - Det' En Hemlighed.flac
 JKLMN\L\LE\Leaves - Catch.flac
 JKLMN\L\LE\LeAnn Rimes - Can't Fight The Moonlight.flac
@@ -1571,7 +1570,7 @@ JKLMN\L\LI\Linda - No Goodbyes.flac
 JKLMN\L\LI\Limp Bizkit - Behind Blue Eyes.flac
 JKLMN\L\LI\Limahl - Never Ending Story.flac
 JKLMN\L\LI\Lily Allen - The Fear.flac
-JKLMN\L\LI\Lilian Ellis & Victor Cornelius - Alle G‚Ä†r Rundt Og Forelsker Sig.flac
+JKLMN\L\LI\Lilian Ellis & Victor Cornelius - Alle GÜr Rundt Og Forelsker Sig.flac
 JKLMN\L\LI\Lighthouse Family - High.flac
 JKLMN\L\LI\Lia Andreen - Mistreat Me.flac
 JKLMN\L\LI\Linkin Park\Linkin Park - What I've Done.flac
@@ -1582,12 +1581,12 @@ JKLMN\L\LI\Lionel Richie\Lionel Richie - Love Will Conquer All.flac
 JKLMN\L\LI\Lionel Richie\Lionel Richie - Hello.flac
 JKLMN\L\LI\Lionel Richie\Lionel Richie - Deep River Woman.flac
 JKLMN\L\LI\Lionel Richie\Lionel Richie - All Night Long.flac
-JKLMN\L\LI\Lis S‚Ä∫rensen\Lis S‚Ä∫rensen - Stille F‚Ä∫r Storm.flac
-JKLMN\L\LI\Lis S‚Ä∫rensen\Lis S‚Ä∫rensen - Indtil Dig Igen.flac
-JKLMN\L\LI\Lis S‚Ä∫rensen\Lis S‚Ä∫rensen - Fuld Af Nattens Stjerner.flac
+JKLMN\L\LI\Lis S¯rensen\Lis S¯rensen - Stille F¯r Storm.flac
+JKLMN\L\LI\Lis S¯rensen\Lis S¯rensen - Indtil Dig Igen.flac
+JKLMN\L\LI\Lis S¯rensen\Lis S¯rensen - Fuld Af Nattens Stjerner.flac
 JKLMN\L\LI\Lisa Nilsson\Lisa Nilsson - Varje Gang Jag Ser Dig.flac
-JKLMN\L\LI\Lisa Nilsson\Lisa Nilsson - Sm‚Ä† Rum.flac
-JKLMN\L\LI\Lisa Nilsson\Lisa Nilsson - Himlen Runt H‚Äùrnet.flac
+JKLMN\L\LI\Lisa Nilsson\Lisa Nilsson - SmÜ Rum.flac
+JKLMN\L\LI\Lisa Nilsson\Lisa Nilsson - Himlen Runt Hîrnet.flac
 JKLMN\L\LI\Lisa Stansfield\Lisa Stansfield - The Real Thing.flac
 JKLMN\L\LI\Lisa Stansfield\Lisa Stansfield - All Around The World.flac
 JKLMN\L\LO\Love Unlimited - I'm So Glad That I'm A Woman.flac
@@ -1599,7 +1598,7 @@ JKLMN\L\LO\Lou Bega - Mambo No. 5.flac
 JKLMN\L\LO\Los Lobos - La Bamba.flac
 JKLMN\L\LO\Los Del Rio - Macarena.flac
 JKLMN\L\LO\Loona - Hijo De La Luna.flac
-JKLMN\L\LO\Lone Kellermann - Se Venedig Og D‚Ä∫.flac
+JKLMN\L\LO\Lone Kellermann - Se Venedig Og D¯.flac
 JKLMN\L\LO\Londonbeat - I've Been Thinking About You.flac
 JKLMN\L\LO\Loft - City Of Dreams.flac
 JKLMN\L\LO\Lobo\Lobo - Me And You And A Dog Named Boo.flac
@@ -1616,7 +1615,7 @@ JKLMN\L\LU\Lucy Pearl - Don't Mess With My Man.flac
 JKLMN\L\LU\Lucie Silvas - What You're Made Of.flac
 JKLMN\L\LU\Ludwig van Beethoven\Ludwig van Beethoven - Violin Romance No 2.flac
 JKLMN\L\LU\Ludwig van Beethoven\Ludwig van Beethoven - Symfoni No 5.flac
-JKLMN\L\LU\Ludwig van Beethoven\Ludwig van Beethoven - F¬År Elise.flac
+JKLMN\L\LU\Ludwig van Beethoven\Ludwig van Beethoven - FÅr Elise.flac
 JKLMN\L\LY\Lynyrd Skynyrd - Sweet Home Alabama.flac
 JKLMN\L\LY\Lynn Anderson - Rose Garden.flac
 JKLMN\M\Mutya Buena - Real Girl.flac
@@ -1632,7 +1631,7 @@ JKLMN\M\M2M\M2M - The Day You Went Away.flac
 JKLMN\M\M2M\M2M - Don't Say You Love Me.flac
 JKLMN\M\MA\Matthew's Southern Comfort - Woodstock.flac
 JKLMN\M\MA\Matthew Wilder - Break My Stride.flac
-JKLMN\M\MA\Mats Ronander - G‚Äùr Mig Lycklig Nu.flac
+JKLMN\M\MA\Mats Ronander - Gîr Mig Lycklig Nu.flac
 JKLMN\M\MA\Massive Attack - Unfinished Sympathy.flac
 JKLMN\M\MA\Mary Mary - Shackles.flac
 JKLMN\M\MA\Mary Hopkin - Those Were The Days.flac
@@ -1646,7 +1645,7 @@ JKLMN\M\MA\Marillion - Kayleigh.flac
 JKLMN\M\MA\Marie Myriam - L'oiseau Et L'enfant.flac
 JKLMN\M\MA\Marie Frank - Symptom Of My Time.flac
 JKLMN\M\MA\Marianne Rosenberg - Ich Bin Wie Du.flac
-JKLMN\M\MA\Maria Stenz - Hvor Er Alle Dr‚Ä∫mmene.flac
+JKLMN\M\MA\Maria Stenz - Hvor Er Alle Dr¯mmene.flac
 JKLMN\M\MA\Maria Montell - Imens Hun Sang.flac
 JKLMN\M\MA\Maria Mena - You're The Only One.flac
 JKLMN\M\MA\Maria McKee - Show Me Heaven.flac
@@ -1680,7 +1679,7 @@ JKLMN\M\MA\Maggie Reilly\Maggie Reilly - Everytime We Touch.flac
 JKLMN\M\MA\Malurt\Malurt - Tilbage Til Byen.flac
 JKLMN\M\MA\Malurt\Malurt - Superlove.flac
 JKLMN\M\MA\Malurt\Malurt - Neonsolen.flac
-JKLMN\M\MA\Malurt\Malurt - M‚Ä∫d Mig I M‚Ä∫rket.flac
+JKLMN\M\MA\Malurt\Malurt - M¯d Mig I M¯rket.flac
 JKLMN\M\MA\Malurt\Malurt - Den Tid Det Tar.flac
 JKLMN\M\MA\Malurt\Malurt - CPR.flac
 JKLMN\M\MA\Manfred Mann\Manfred Mann - If You Gotta Go, Go Now.flac
@@ -1743,7 +1742,7 @@ JKLMN\M\MI\Miss B. Haven - Coco.flac
 JKLMN\M\MI\Miquel Brown - So Many Men, So Little Time.flac
 JKLMN\M\MI\Minnie Riperton - Lovin' You.flac
 JKLMN\M\MI\Mike And The Mechanics - Over My Shulder.flac
-JKLMN\M\MI\Mikael Wiehe - Mitt Hj‚Äûrtas F‚Ä†gel.flac
+JKLMN\M\MI\Mikael Wiehe - Mitt HjÑrtas FÜgel.flac
 JKLMN\M\MI\Midnight Oil - Beds Are Burning.flac
 JKLMN\M\MI\Midge Ure - If I Was.flac
 JKLMN\M\MI\Middle Of The Road - Chirpy Chirpy Cheep Cheep.flac
@@ -1753,8 +1752,8 @@ JKLMN\M\MI\Michael Hardinger - Walk, Mand.flac
 JKLMN\M\MI\Michael Falch - Nye Tider.flac
 JKLMN\M\MI\Michael Bolton\Michael Bolton - How Can We Be Frinds.flac
 JKLMN\M\MI\Michael Bolton\Michael Bolton - How Am I Supposed To Live Without You.flac
-JKLMN\M\MI\Michael Bubl‚Äö\Michael Bubl‚Äö - Haven't Met You Yet .flac
-JKLMN\M\MI\Michael Bubl‚Äö\Michael Bubl‚Äö - Everything.flac
+JKLMN\M\MI\Michael BublÇ\Michael BublÇ - Haven't Met You Yet .flac
+JKLMN\M\MI\Michael BublÇ\Michael BublÇ - Everything.flac
 JKLMN\M\MI\Michael Jackson\Michelle Gayle - Sweetness.flac
 JKLMN\M\MI\Michael Jackson\Michelle - Wer Liebe Lebt.flac
 JKLMN\M\MI\Michael Jackson\Michael Zager Band - Let's All Chant.flac
@@ -1863,7 +1862,7 @@ JKLMN\N\NI\Nick Straker Band - A Walk In The Park.flac
 JKLMN\N\NI\Nick Cave & Kylie Minogue - Where The Wild Roses Grow.flac
 JKLMN\N\NI\Nice Little Penguins\Nice Little Penquins - The Letter.flac
 JKLMN\N\NI\Nice Little Penguins\Nice Little Penguins - Flying.flac
-JKLMN\N\NI\Nik & Jay\Nik & Jay - N‚Ä†r Et Lys Slukkes.flac
+JKLMN\N\NI\Nik & Jay\Nik & Jay - NÜr Et Lys Slukkes.flac
 JKLMN\N\NI\Nik & Jay\Nik & Jay - Et Sidste Kys.flac
 JKLMN\N\NI\Nik & Jay\Nik & Jay - En Dag Tilbage.flac
 JKLMN\N\NI\Nirvana\Nirvana - Where Did You Sleep Last Night.flac
@@ -1911,9 +1910,9 @@ OPQRS\O\OL\Olivia Newton-John\Olivia Newton-John - Have You Never Been Mellow.fl
 OPQRS\O\OL\Olivia Newton-John\Olivia Newton-John - A Little More Love.flac
 OPQRS\O\ON\One-T & Cool-T - The Magic Key.flac
 OPQRS\O\ON\One Republic - Stop And Stare.flac
-OPQRS\O\ON\One Two\One Two - Sket S‚Ä† Tit.flac
-OPQRS\O\ON\One Two\One Two - Midt I En Dr‚Ä∫m.flac
-OPQRS\O\ON\One Two\One Two - Hvide L‚Ä∫gne.flac
+OPQRS\O\ON\One Two\One Two - Sket SÜ Tit.flac
+OPQRS\O\ON\One Two\One Two - Midt I En Dr¯m.flac
+OPQRS\O\ON\One Two\One Two - Hvide L¯gne.flac
 OPQRS\O\ON\One Two\One Two - Den Bedste Tid.flac
 OPQRS\O\ON\One Two\One Two - Billy Boy.flac
 OPQRS\O\OR\Orup - Stockholm.flac
@@ -1925,7 +1924,7 @@ OPQRS\O\OT\Ottawan\Ottawan - Disco.flac
 OPQRS\O\Ozzy Osbourne\Ozzy Osbourne & Lita Ford - If I Close My Eyes Forever.flac
 OPQRS\O\Ozzy Osbourne\Ozzy Osbourne - Mama, I'm Coming Home.flac
 OPQRS\O\Ozzy Osbourne\Ozzy Osbourne - Dreamer.flac
-OPQRS\P\P‚Ä† Slaget 12 - Hjem Til ¬èrhus.flac
+OPQRS\P\PÜ Slaget 12 - Hjem Til èrhus.flac
 OPQRS\P\P Diddy & Skylar Grey - Coming Home.flac
 OPQRS\P\P Diddy & Keyshia Cole - Last Night.flac
 OPQRS\P\PA\Paula Cole - Where Have All The Cowboys Gone.flac
@@ -1938,7 +1937,7 @@ OPQRS\P\PA\Patrick Swayze - She's Like The Wind.flac
 OPQRS\P\PA\Pat Benatar - Love Is A Battlefield.flac
 OPQRS\P\PA\Paradiso - Bailando.flac
 OPQRS\P\PA\Paper Lace - The Night Chicago Died.flac
-OPQRS\P\PA\Patrik Isaksson\Patrik Isaksson - Du F‚Ä†r G‚Äùre Som Du Vill.flac
+OPQRS\P\PA\Patrik Isaksson\Patrik Isaksson - Du FÜr Gîre Som Du Vill.flac
 OPQRS\P\PA\Patrik Isaksson\Patrik Isaksson - Aldrig Mer.flac
 OPQRS\P\PA\Patti Smith\Patti Smith - Paths That Cross.flac
 OPQRS\P\PA\Patti Smith\Patti Smith - Frederick.flac
@@ -1977,7 +1976,7 @@ OPQRS\P\Phil Collins\Phil Collins - I Wish It Would Rain Down.flac
 OPQRS\P\Phil Collins\Phil Collins - Easy Lover.flac
 OPQRS\P\Phil Collins\Phil Collins - Against All Odds.flac
 OPQRS\P\PI\Pilot - Magic.flac
-OPQRS\P\PI\Pia Raug - Jeg Vil Male Dagen Bl‚Ä†.flac
+OPQRS\P\PI\Pia Raug - Jeg Vil Male Dagen BlÜ.flac
 OPQRS\P\PI\Pink\Pink & Nate Ruess - Just Give Me A Reason.flac
 OPQRS\P\PI\Pink\Pink - Who Knew.flac
 OPQRS\P\PI\Pink\Pink - There You Go.flac
@@ -1993,7 +1992,7 @@ OPQRS\P\PI\Pixie Lott\Pixie Lott - Mama Do.flac
 OPQRS\P\PI\Pixie Lott\Pixie Lott - Cry Me Out.flac
 OPQRS\P\PL\Player - Baby Come Back.flac
 OPQRS\P\PL\Plain White T's - Hey There Delilah.flac
-OPQRS\P\PO\Poul Krebs - S‚Ä†dan Nogen Som Os.flac
+OPQRS\P\PO\Poul Krebs - SÜdan Nogen Som Os.flac
 OPQRS\P\PO\Popsie - Rough Enough.flac
 OPQRS\P\PO\Pop Tops - Mamy Blue.flac
 OPQRS\P\PO\Pointer Sisters\Pointer Sisters - Slowhand.flac
@@ -2053,7 +2052,7 @@ OPQRS\R\Ryan Adams - Answering Bell.flac
 OPQRS\R\Rhona - Satisfied.flac
 OPQRS\R\RA\Razorlight - America.flac
 OPQRS\R\RA\Rasmus Seebach - Lidt I Fem.flac
-OPQRS\R\RA\Rasmus N‚Ä∫hr - Alderspr‚Äòsident.flac
+OPQRS\R\RA\Rasmus N¯hr - Aldersprësident.flac
 OPQRS\R\RA\Rasmus - In The Shadows.flac
 OPQRS\R\RA\Ram Jam - Black Betty.flac
 OPQRS\R\RA\Ralph McTell - Streets of London.flac
@@ -2070,13 +2069,13 @@ OPQRS\R\RA\Randy Crawford\Randy Crawford - You Might Need Somebody.flac
 OPQRS\R\RA\Randy Crawford\Randy Crawford - Windsong.flac
 OPQRS\R\RA\Randy Crawford\Randy Crawford - One Day I'll Fly Away.flac
 OPQRS\R\RA\Randy Crawford\Randy Crawford - Almaz.flac
-OPQRS\R\RA\Ray Dee Ohh\Ray Dee Ohh - V‚Äòk Mig.flac
-OPQRS\R\RA\Ray Dee Ohh\Ray Dee Ohh - Stille Str‚Ä∫m.flac
-OPQRS\R\RA\Ray Dee Ohh\Ray Dee Ohh - Mandags-St‚Äòvnem‚Ä∫de.flac
-OPQRS\R\RA\Ray Dee Ohh\Ray Dee Ohh - Jeg Vil La' Lyset Br‚Äònde.flac
+OPQRS\R\RA\Ray Dee Ohh\Ray Dee Ohh - Vëk Mig.flac
+OPQRS\R\RA\Ray Dee Ohh\Ray Dee Ohh - Stille Str¯m.flac
+OPQRS\R\RA\Ray Dee Ohh\Ray Dee Ohh - Mandags-Stëvnem¯de.flac
+OPQRS\R\RA\Ray Dee Ohh\Ray Dee Ohh - Jeg Vil La' Lyset Brënde.flac
 OPQRS\R\RA\Ray Dee Ohh\Ray Dee Ohh - Elskes Af Dig.flac
-OPQRS\R\RA\Ray Dee Ohh\Ray Dee Ohh - Efter‚Ä†r.flac
-OPQRS\R\RA\Ray Dee Ohh\Ray Dee Ohh - Br‚Äòndende L‚Äòber.flac
+OPQRS\R\RA\Ray Dee Ohh\Ray Dee Ohh - EfterÜr.flac
+OPQRS\R\RA\Ray Dee Ohh\Ray Dee Ohh - Brëndende Lëber.flac
 OPQRS\R\RE\RES - Golden Boys.flac
 OPQRS\R\RE\Republica - Ready To Go.flac
 OPQRS\R\RE\Renee & Renato - Save Your Love.flac
@@ -2211,20 +2210,20 @@ OPQRS\R\RO\Roy Orbison\Roy Orbison - California Blue.flac
 OPQRS\R\RU\Run 4 Fun - Don't Talk To Jessica.flac
 OPQRS\R\RU\Ruff Driverz - Waiting For The Sun.flac
 OPQRS\R\RU\Rubettes - Sugar Baby Love.flac
-OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - ¬ùnsker Du Var Her.flac
-OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - Tilf‚Äòldigvis Forbi.flac
+OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - ùnsker Du Var Her.flac
+OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - Tilfëldigvis Forbi.flac
 OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - Ta' Med.flac
 OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - Spring Op, Tag Med.flac
 OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - Spredt For Vinden.flac
 OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - Sad I Parken.flac
 OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - Rundt Op Og Ned.flac
 OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - Jeg Ved Det Godt.flac
-OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - G‚Ä†r Gennem Tiden.flac
-OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - Endnu Et Efter‚Ä†r.flac
+OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - GÜr Gennem Tiden.flac
+OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - Endnu Et EfterÜr.flac
 OPQRS\R\RU\Rugsted & Kreutzfeldt\Rugsted & Kreutzfeldt - Da Du Var Min Helt Alene.flac
-OPQRS\R\R‚Ä∫de Mor\R‚Ä∫de Mor - Vuggesangen.flac
-OPQRS\R\R‚Ä∫de Mor\R‚Ä∫de Mor - Ta' P‚Ä† Landet.flac
-OPQRS\R\R‚Ä∫de Mor\R‚Ä∫de Mor - Arbejdsl‚Ä∫shedssang.flac
+OPQRS\R\R¯de Mor\R¯de Mor - Vuggesangen.flac
+OPQRS\R\R¯de Mor\R¯de Mor - Ta' PÜ Landet.flac
+OPQRS\R\R¯de Mor\R¯de Mor - Arbejdsl¯shedssang.flac
 OPQRS\S\Squeeze - Tempted.flac
 OPQRS\S\S Club 7 - Don't Stop Movin'.flac
 OPQRS\S\S-Connection\S-Connection & Anabelle - It May Be Winter Outside.flac
@@ -2252,15 +2251,15 @@ OPQRS\S\SA\Sam Cooke\Sam Cooke - Only Sixteen.flac
 OPQRS\S\SA\Sandra\Sandra - Maria Magdalena.flac
 OPQRS\S\SA\Sandra\Sandra - Little Girl.flac
 OPQRS\S\SA\Sandra\Sandra - In The Heat Of The Night.flac
-OPQRS\S\SA\Sanne Salomonsen\Sanne Salomonsen - ¬ùst For Paradis.flac
+OPQRS\S\SA\Sanne Salomonsen\Sanne Salomonsen - ùst For Paradis.flac
 OPQRS\S\SA\Sanne Salomonsen\Sanne Salomonsen - Where Blue Begins.flac
 OPQRS\S\SA\Sanne Salomonsen\Sanne Salomonsen - Misbrugt Og Forladt.flac
 OPQRS\S\SA\Sanne Salomonsen\Sanne Salomonsen - Leve Dit Liv.flac
-OPQRS\S\SA\Sanne Salomonsen\Sanne Salomonsen - K‚Äòrligheden Kalder.flac
+OPQRS\S\SA\Sanne Salomonsen\Sanne Salomonsen - Kërligheden Kalder.flac
 OPQRS\S\SA\Sanne Salomonsen\Sanne Salomonsen - Hvis Du Forstod.flac
 OPQRS\S\SA\Sanne Salomonsen\Sanne Salomonsen - Haven't I Been Good To You.flac
 OPQRS\S\SA\Sanne Salomonsen\Sanne Salomonsen - Det' Ikke Det Du Siger.flac
-OPQRS\S\SA\Sanne Salomonsen\Sanne Salomonsen - Den Lille L‚Ä∫gn.flac
+OPQRS\S\SA\Sanne Salomonsen\Sanne Salomonsen - Den Lille L¯gn.flac
 OPQRS\S\SA\Santana\Santana & Steven Tyler - Just Feel Better.flac
 OPQRS\S\SA\Santana\Santana & Rob Thomas - Smooth.flac
 OPQRS\S\SA\Santana\Santana & Michelle Branch - The Game Of Love.flac
@@ -2293,11 +2292,11 @@ OPQRS\S\SE\Semisonic - Chemistry.flac
 OPQRS\S\SE\Searchers - Needles And Pins.flac
 OPQRS\S\SE\Seals & Crofts - Summer Breeze.flac
 OPQRS\S\SE\Seal - Kiss From A Rose.flac
-OPQRS\S\SE\Sebastian\Sebastian & Sissel Kyrkjeb‚Ä∫ - V‚Ä†rvise.flac
+OPQRS\S\SE\Sebastian\Sebastian & Sissel Kyrkjeb¯ - VÜrvise.flac
 OPQRS\S\SE\Sebastian\Sebastian - Scheherazade.flac
 OPQRS\S\SE\Sebastian\Sebastian - Romeo.flac
-OPQRS\S\SE\Sebastian\Sebastian - N‚Ä†r Lyset Bryder Frem.flac
-OPQRS\S\SE\Sebastian\Sebastian - M‚Ä†ske Ku' Vi.flac
+OPQRS\S\SE\Sebastian\Sebastian - NÜr Lyset Bryder Frem.flac
+OPQRS\S\SE\Sebastian\Sebastian - MÜske Ku' Vi.flac
 OPQRS\S\SE\Sebastian\Sebastian - Du Er Ikke Alene.flac
 OPQRS\S\SE\Sebastian\Sebastian - 80'ernes Boheme.flac
 OPQRS\S\SH\Shout Out Louds - Impossible.flac
@@ -2330,13 +2329,13 @@ OPQRS\S\SH\Shirley Bassey\Shirley Bassey - Goldfinger.flac
 OPQRS\S\SH\Shirley Bassey\Shirley Bassey - Diamonds Are Forever.flac
 OPQRS\S\SH\Showaddywaddy\Showaddywaddy - Under The Moon Of Love.flac
 OPQRS\S\SH\Showaddywaddy\Showaddywaddy - Dancin' Party.flac
-OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - ‚Äôrmelunden.flac
+OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - írmelunden.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - We Wanna Be Free.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Vuggevisen.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Vuffeli-Vov.flac
-OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Tryk P‚Ä†.flac
+OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Tryk PÜ.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Tilfredserne.flac
-OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - St‚Äòrk Tobak.flac
+OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Stërk Tobak.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Stjernefart.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Sorgenfri.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Sommergryder.flac
@@ -2348,22 +2347,22 @@ OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Rap Jul.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Nappa Og Nylon.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Minus Til Plus.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Min Kone Og Min Mor.flac
-OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Mig Og s‚Ä† Harry.flac
+OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Mig Og sÜ Harry.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Midsommersangen.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - McArine.flac
-OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Lulu Rocken G‚Ä†r.flac
+OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Lulu Rocken GÜr.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Kylling Med Soft Ice.flac
-OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Kor, K‚Äòrlighed Og Klokkeklang.flac
+OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Kor, Kërlighed Og Klokkeklang.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Knuden.flac
-OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Knald I L‚Ä†get.flac
+OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Knald I LÜget.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Hvalborg.flac
-OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - F‚Ä∫rst Til Sidst.flac
+OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - F¯rst Til Sidst.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Form og Filur.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Folkevognen.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Fed Rock.flac
-OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Den R‚Ä∫de Tr‚Ä†d.flac
-OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Den Himmelbl‚Ä†.flac
-OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Den Gr‚Ä∫nne.flac
+OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Den R¯de TrÜd.flac
+OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Den HimmelblÜ.flac
+OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Den Gr¯nne.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Danmark.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Costa Kalundborg.flac
 OPQRS\S\SH\Shu-Bi-Dua\Shu-Bi-Dua - Basuner og Engle.flac
@@ -2500,7 +2499,7 @@ OPQRS\S\ST\Strokes\Strokes - Someday.flac
 OPQRS\S\ST\Strokes\Strokes - Last Nite.flac
 OPQRS\S\ST\Strokes\Strokes - 12.51.flac
 OPQRS\S\SU\Suzanne Vega - Luka.flac
-OPQRS\S\SU\Susanne Lana - Hvis T‚Ä†rer Var Guld.flac
+OPQRS\S\SU\Susanne Lana - Hvis TÜrer Var Guld.flac
 OPQRS\S\SU\Susanna Hoffs - My Side Of The Bed.flac
 OPQRS\S\SU\Susan Raye - L.A. International Airport.flac
 OPQRS\S\SU\Susan Fassbender - Twilight Cafe.flac
@@ -2537,10 +2536,10 @@ OPQRS\S\SW\Sweet\Sweet - Funny Funny.flac
 OPQRS\S\SW\Sweet\Sweet - Fox On The Run.flac
 OPQRS\S\SY\Systematixx - Power Of Love.flac
 OPQRS\S\SY\Sylvester Og Svalerne - Endnu En Nat.flac
-OPQRS\S\S¬ù\S‚Ä∫ren Kragh Jacobsen - Kender du det.flac
-OPQRS\S\S¬ù\S‚Ä∫s Fenger\S‚Ä∫s Fenger & Peter A. G. Nielsen - Hvor End Jeg G‚Ä†r Hen.flac
-OPQRS\S\S¬ù\S‚Ä∫s Fenger\S‚Ä∫s Fenger - Kun Et Kys Herfra.flac
-OPQRS\S\S¬ù\S‚Ä∫s Fenger\S‚Ä∫s Fenger - Inderst Inde.flac
+OPQRS\S\Sù\S¯ren Kragh Jacobsen - Kender du det.flac
+OPQRS\S\Sù\S¯s Fenger\S¯s Fenger & Peter A. G. Nielsen - Hvor End Jeg GÜr Hen.flac
+OPQRS\S\Sù\S¯s Fenger\S¯s Fenger - Kun Et Kys Herfra.flac
+OPQRS\S\Sù\S¯s Fenger\S¯s Fenger - Inderst Inde.flac
 TUVWX\T\Twisted Sisters - We're Not Gonna Take It.flac
 TUVWX\T\T-\T'Pau - China In Your Hand.flac
 TUVWX\T\T-\T Rex\T Rex - Hot Love.flac
@@ -2583,10 +2582,10 @@ TUVWX\T\TH\Thin Lizzy\Thin Lizzy - Whisky In The Jar.flac
 TUVWX\T\TH\Thin Lizzy\Thin Lizzy - The Boys Are Back In Town.flac
 TUVWX\T\TH\Thin Lizzy\Thin Lizzy - Cowboy Song.flac
 TUVWX\T\TH\Thomas Helmig\Thomas Helmig - Stupid Man.flac
-TUVWX\T\TH\Thomas Helmig\Thomas Helmig - Nu Hvor Du Har Br‚Äòndt Mig Af.flac
+TUVWX\T\TH\Thomas Helmig\Thomas Helmig - Nu Hvor Du Har Brëndt Mig Af.flac
 TUVWX\T\TH\Thomas Helmig\Thomas Helmig - Gotta Get Away From You.flac
 TUVWX\T\TH\Thomas Helmig\Thomas Helmig - Flower Child.flac
-TUVWX\T\TH\Thomas Helmig\Thomas Helmig - Det Er Mig Der St‚Ä†r Herude Og Banker P‚Ä†.flac
+TUVWX\T\TH\Thomas Helmig\Thomas Helmig - Det Er Mig Der StÜr Herude Og Banker PÜ.flac
 TUVWX\T\TH\Three Degrees\Three Degrees - When Will I See You Again.flac
 TUVWX\T\TH\Three Degrees\Three Degrees - Dirty Ol' Man.flac
 TUVWX\T\TI\Titiyo - Come Along.flac
@@ -2607,7 +2606,7 @@ TUVWX\T\TO\Toploader - Dancing In The Moonlight.flac
 TUVWX\T\TO\Tony Rich Project - Nobody Knows.flac
 TUVWX\T\TO\Tommy Tutone - 867-5309.flac
 TUVWX\T\TO\Tommy Lee - Good Times.flac
-TUVWX\T\TO\Tomas Ledin - En Del Av Mitt Hj‚Äûrta.flac
+TUVWX\T\TO\Tomas Ledin - En Del Av Mitt HjÑrta.flac
 TUVWX\T\TO\Tom Robinson Band - 2-4-6-8 Motorway.flac
 TUVWX\T\TO\Toby Keith - Courtesy Of The Red, White & Blue.flac
 TUVWX\T\TO\Tom Jones\Tom Jones - She's A Lady.flac
@@ -2640,7 +2639,7 @@ TUVWX\T\TO\Toto\Toto - Hold The Line.flac
 TUVWX\T\TO\Toto Cutugno\Toto Cutugno - Un' Estate Con Te.flac
 TUVWX\T\TO\Toto Cutugno\Toto Cutugno - L'Italiano.flac
 TUVWX\T\TR\Troggs - Wild Thing.flac
-TUVWX\T\TR\Troels Trier & Rebecca Br¬Åel - For‚Ä†r Igen.flac
+TUVWX\T\TR\Troels Trier & Rebecca BrÅel - ForÜr Igen.flac
 TUVWX\T\TR\Trammps - Disco Inferno.flac
 TUVWX\T\TR\Train - Drops Of Jupiter.flac
 TUVWX\T\TR\Tracey Ullman - They Don't Know.flac
@@ -2657,12 +2656,12 @@ TUVWX\T\Turtles\Turtles - Happy Together.flac
 TUVWX\T\Turtles\Turtles - Elenore.flac
 TUVWX\T\TV2\TV2 - Turbo.flac
 TUVWX\T\TV2\TV2 - Tidens Kvinder.flac
-TUVWX\T\TV2\TV2 - Sporl‚Ä∫s.flac
+TUVWX\T\TV2\TV2 - Sporl¯s.flac
 TUVWX\T\TV2\TV2 - Skanderborg Station.flac
-TUVWX\T\TV2\TV2 - Rigtige M‚Äònd.flac
+TUVWX\T\TV2\TV2 - Rigtige Mënd.flac
 TUVWX\T\TV2\TV2 - Randers Station.flac
 TUVWX\T\TV2\TV2 - Popmusikerens Vise.flac
-TUVWX\T\TV2\TV2 - N‚Äòrmest Lykkelig.flac
+TUVWX\T\TV2\TV2 - Nërmest Lykkelig.flac
 TUVWX\T\TV2\TV2 - Lanternen.flac
 TUVWX\T\TV2\TV2 - Kys Det Nu.flac
 TUVWX\T\TV2\TV2 - Hele Verden Fra Forstanden.flac
@@ -2670,21 +2669,21 @@ TUVWX\T\TV2\TV2 - Fri Som Fuglen.flac
 TUVWX\T\TV2\TV2 - Eventyr For Begyndere.flac
 TUVWX\T\TV2\TV2 - Bag Duggede Ruder.flac
 TUVWX\T\TV2\TV2 - Alt Hvad Hun Ville Var At Danse.flac
-TUVWX\T\T‚Ä∫sedrengene\T‚Ä∫sedrengene - Ud Under ¬èben Himmel.flac
-TUVWX\T\T‚Ä∫sedrengene\T‚Ä∫sedrengene - S‚Ä† Gik Der Tid Med Det.flac
-TUVWX\T\T‚Ä∫sedrengene\T‚Ä∫sedrengene - Slip Det Fri.flac
-TUVWX\T\T‚Ä∫sedrengene\T‚Ä∫sedrengene - Skoven Falder.flac
-TUVWX\T\T‚Ä∫sedrengene\T‚Ä∫sedrengene - Sige Nej.flac
-TUVWX\T\T‚Ä∫sedrengene\T‚Ä∫sedrengene - P‚Ä† En L‚Ä∫rdag.flac
-TUVWX\T\T‚Ä∫sedrengene\T‚Ä∫sedrengene - Pas P‚Ä† Dine Bl‚Ä† ¬ùjne.flac
-TUVWX\T\T‚Ä∫sedrengene\T‚Ä∫sedrengene - Indianer.flac
-TUVWX\T\T‚Ä∫sedrengene\T‚Ä∫sedrengene - En Rose.flac
-TUVWX\T\T‚Ä∫sedrengene\T‚Ä∫sedrengene - Du Har Mig.flac
-TUVWX\T\T‚Ä∫sedrengene\T‚Ä∫sedrengene - Drop Dine L‚Ä∫gne.flac
-TUVWX\T\T‚Ä∫sedrengene\T‚Ä∫sedrengene - Chancen.flac
-TUVWX\T\T‚Ä∫sedrengene\T‚Ä∫sedrengene - Bruge Og Bruges.flac
-TUVWX\T\T‚Ä∫sedrengene\T‚Ä∫sedrengene - Alle Kongens M‚Äònd.flac
-TUVWX\U\UFO & Yepha - Fluen P‚Ä† V‚Äòggen.flac
+TUVWX\T\T¯sedrengene\T¯sedrengene - Ud Under èben Himmel.flac
+TUVWX\T\T¯sedrengene\T¯sedrengene - SÜ Gik Der Tid Med Det.flac
+TUVWX\T\T¯sedrengene\T¯sedrengene - Slip Det Fri.flac
+TUVWX\T\T¯sedrengene\T¯sedrengene - Skoven Falder.flac
+TUVWX\T\T¯sedrengene\T¯sedrengene - Sige Nej.flac
+TUVWX\T\T¯sedrengene\T¯sedrengene - PÜ En L¯rdag.flac
+TUVWX\T\T¯sedrengene\T¯sedrengene - Pas PÜ Dine BlÜ ùjne.flac
+TUVWX\T\T¯sedrengene\T¯sedrengene - Indianer.flac
+TUVWX\T\T¯sedrengene\T¯sedrengene - En Rose.flac
+TUVWX\T\T¯sedrengene\T¯sedrengene - Du Har Mig.flac
+TUVWX\T\T¯sedrengene\T¯sedrengene - Drop Dine L¯gne.flac
+TUVWX\T\T¯sedrengene\T¯sedrengene - Chancen.flac
+TUVWX\T\T¯sedrengene\T¯sedrengene - Bruge Og Bruges.flac
+TUVWX\T\T¯sedrengene\T¯sedrengene - Alle Kongens Mënd.flac
+TUVWX\U\UFO & Yepha - Fluen PÜ Vëggen.flac
 TUVWX\U\U2\U2 - With Or Without You.flac
 TUVWX\U\U2\U2 - Who's Gonna Ride Your Wild Horses.flac
 TUVWX\U\U2\U2 - Walk On.flac
@@ -2698,9 +2697,9 @@ TUVWX\U\U2\U2 - Angel Of Harlem.flac
 TUVWX\U\Ugly Kid Joe\Ugly Kid Joe - Everything About You.flac
 TUVWX\U\Ugly Kid Joe\Ugly Kid Joe - Cats In The Cradle.flac
 TUVWX\U\UL\Ultravox - Dancing With Tears Im My Eyes.flac
-TUVWX\U\UL\Ulla Pia - Flower Power T‚Ä∫j.flac
-TUVWX\U\UL\Ultra Nat‚Äö\Ultra Nat‚Äö - New Kind Of Medicine.flac
-TUVWX\U\UL\Ultra Nat‚Äö\Ultra Nat‚Äö - Free.flac
+TUVWX\U\UL\Ulla Pia - Flower Power T¯j.flac
+TUVWX\U\UL\Ultra NatÇ\Ultra NatÇ - New Kind Of Medicine.flac
+TUVWX\U\UL\Ultra NatÇ\Ultra NatÇ - Free.flac
 TUVWX\U\UN\Uno Svenningsson - Under Ytan.flac
 TUVWX\U\UN\Unite - Don't Fight It.flac
 TUVWX\U\UN\Undercover - Baker Street.flac
@@ -2728,7 +2727,7 @@ TUVWX\V\VA\Vaya Con Dios\Vaya Con Dios - Nah Neh Nah.flac
 TUVWX\V\VA\Vaya Con Dios\Vaya Con Dios - Just A Friend Of Mine.flac
 TUVWX\V\VA\Vaya Con Dios\Vaya Con Dios - Heading For A Fall.flac
 TUVWX\V\VA\Vaya Con Dios\Vaya Con Dios - Farewell Song.flac
-TUVWX\V\VE\Veronica Maggio - M‚Ä†ndagsbarn.flac
+TUVWX\V\VE\Veronica Maggio - MÜndagsbarn.flac
 TUVWX\V\VE\Vera Lynn - We'll Meet Again.flac
 TUVWX\V\VE\Vengaboys - Shalala Lala.flac
 TUVWX\V\VE\Velvet Revolver\Velvet Revolver - The Last Fight.flac
@@ -2806,16 +2805,16 @@ TUVWX\W\WO\Wolfgang Amadeus Mozart\Wolfgang Amadeus Mozart - Symfoni No 40.flac
 TUVWX\W\WO\Wolfgang Amadeus Mozart\Wolfgang Amadeus Mozart - Serenata Notturna.flac
 TUVWX\W\WO\Wolfgang Amadeus Mozart\Wolfgang Amadeus Mozart - Le Nozze di Figaro Overture.flac
 TUVWX\W\WO\Wolfgang Amadeus Mozart\Wolfgang Amadeus Mozart - Eine Kleine Nachtmusik.flac
-YZ‚Äô¬ù¬è\Y\YA\Yazz - The Only Way Is Up.flac
-YZ‚Äô¬ù¬è\Y\YA\Yazoo - Don't Go.flac
-YZ‚Äô¬ù¬è\Y\YA\Yanou pres. Do - On And On.flac
-YZ‚Äô¬ù¬è\Y\YA\Yakita - Don't Leave Me Behind.flac
-YZ‚Äô¬ù¬è\Y\YO\Youssou N'Dour - 7 Seconds.flac
-YZ‚Äô¬ù¬è\Y\YO\YouKnowWho - Good & Evil.flac
-YZ‚Äô¬ù¬è\Z\ZZ Top - Gimme All Your Lovin'.flac
-YZ‚Äô¬ù¬è\Z\Zucchero & Randy Crawford - Diamante.flac
-YZ‚Äô¬ù¬è\Z\Zombies - She's Not There.flac
-YZ‚Äô¬ù¬è\Z\Zager & Evans - In The Year 2525.flac
-YZ‚Äô¬ù¬è\Z\ZI\Zindy - Round N' Round.flac
-YZ‚Äô¬ù¬è\Z\ZI\Zididada\Zididada - Zididada Day.flac
-YZ‚Äô¬ù¬è\Z\ZI\Zididada\Zididada - Walking On Water.flac
+YZíùè\Y\YA\Yazz - The Only Way Is Up.flac
+YZíùè\Y\YA\Yazoo - Don't Go.flac
+YZíùè\Y\YA\Yanou pres. Do - On And On.flac
+YZíùè\Y\YA\Yakita - Don't Leave Me Behind.flac
+YZíùè\Y\YO\Youssou N'Dour - 7 Seconds.flac
+YZíùè\Y\YO\YouKnowWho - Good & Evil.flac
+YZíùè\Z\ZZ Top - Gimme All Your Lovin'.flac
+YZíùè\Z\Zucchero & Randy Crawford - Diamante.flac
+YZíùè\Z\Zombies - She's Not There.flac
+YZíùè\Z\Zager & Evans - In The Year 2525.flac
+YZíùè\Z\ZI\Zindy - Round N' Round.flac
+YZíùè\Z\ZI\Zididada\Zididada - Zididada Day.flac
+YZíùè\Z\ZI\Zididada\Zididada - Walking On Water.flac
