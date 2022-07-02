@@ -1,0 +1,30 @@
+Din momsindberetning er registreret.
+
+C. B. Svitzer
+Mariehaven 19
+4300 Holbæk
+ 
+Mailadresse cbsvitzer@gmail.com
+Momsangivelse foretaget af	
+CVR-/SE-nummer	   13 25 76 39
+CVR-/SE-nummer	13 25 76 39
+Kvitteringsnummer	1
+Modtaget den	01-07-2022
+Modtaget klokken	05:47
+Periode	01-01-2022 - 30-06-2022
+Identifikationslinje til netbank	+71<000000132576398+83046031<
+Betalingsfrist	01-09-2022
+Virksomhedens evt. forklaring på negativ angivelse. Max 250 tegn. Feltet kan ikke bruges til meddelelser eller spørgsmål til Skattestyrelsen - de vil ikke blive besvaret. Skriv til Skattestyrelsen i menupunktet Kontakt.	
+Salgsmoms (udgående moms)	6.976
+Moms af varekøb i udlandet (både EU og lande uden for EU)	
+Moms af ydelseskøb i udlandet med omvendt betalingspligt	
+Fradrag
+Købsmoms (indgående moms)	2.757
+Olie- og flaskegasafgift	
+Elafgift	
+Naturgas- og bygasafgift	
+Kulafgift	
+CO2-afgift	
+Vandafgift	
+Moms i alt (positivt beløb = betale, negativt beløb = penge til gode)	4.219
+Supplerende oplysninger
