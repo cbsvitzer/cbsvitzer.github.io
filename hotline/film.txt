@@ -87,7 +87,7 @@ Danske Film\Klovn\Klovn_40_UPS.iso
 Danske Film\Klovn\Klovn_41_Mamma_Mia.iso
 Danske Film\Klovn\Klovn_42_Mere_Ost_Christian_Braad_Thomsen.iso
 Danske Film\Klovn\Klovn_43_White_House_Potential.iso
-Danske Film\Klovn\Klovn_44_Tak_For_Svane‘g.iso
+Danske Film\Klovn\Klovn_44_Tak_For_Svaneâ€˜g.iso
 Danske Film\Klovn\Klovn_45_Den_Japanske_Have.iso
 Danske Film\Klovn\Klovn_46_Troldmanden_Fra_Frederiksberg.iso
 Danske Film\Klovn\Klovn_47_Hor_Nu_Efter_Frank.iso
@@ -191,7 +191,7 @@ Dokumentar\Egypten\5 - Mysteriet Om Rosettastenen.iso
 Dokumentar\Egypten\6 - Hieroglyffernes Hemmelighed.iso
 Dokumentar\Egypten\7 - Pyramide.iso
 Dokumentar\Gamle Danmark\01 - Var Der Noget At Raabe Hurra For.iso
-Dokumentar\Gamle Danmark\02 - Der Maa V‘re En Graense.iso
+Dokumentar\Gamle Danmark\02 - Der Maa Vâ€˜re En Graense.iso
 Dokumentar\Gamle Danmark\03 - Lille Land, Hva' Nu.iso
 Dokumentar\Gamle Danmark\04 - Folkets Datter & Folkets Sonner.iso
 Dokumentar\Gamle Danmark\05 - Situationens Generalstab.iso
